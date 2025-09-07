@@ -1,6 +1,6 @@
 ### Hi there, I'm Pakhi Shukla 👩‍💻
 
-I'm a driven Computer Science undergraduate at **VIT Bhopal University** with a CGPA of 8.79/10 (Expected Graduation: July 2027). I have hands-on experience in machine learning, data analysis, and software development. I am actively seeking a Summer Internship to apply my skills in Software Engineering and AI/ML to contribute to innovative, data-driven solutions.
+I'm a driven Computer Science undergraduate at **VIT Bhopal University** with a CGPA of 8.79/10 (Expected Graduation: July 2027). I have hands-on experience in machine learning, data analysis, and software development. I am actively seeking a Summer Internship to apply my skills in Software Engineering and Cloud Computing to contribute to data-driven solutions.
 
 ---
 ### 💻 My Tech Stack:
