@@ -1,4 +1,9 @@
-## Hi there 👋
+# Pakhi Shukla
+## About me
+*Computer Science Student*
+**My Skills**
+[My LinkedIn](www.linkedin.com/in/pakhi-shukla-6773a428b)
+![GitHub Logo](https://share.google/images/tTJrXvXHj18nCBdfw)
 
 <!--
 **Pakhi-308/Pakhi-308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
